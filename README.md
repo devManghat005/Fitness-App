@@ -1,1 +1,1 @@
-For a comprehensive overview of the app and its features, please watch this demo video: [Video Of Product](file:///Users/dev/Downloads/cs_submission%202/Documentation/CritD.mp4). It provides a detailed summary of what the app offers.
+
